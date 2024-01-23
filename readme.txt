@@ -1,3 +1,6 @@
+# Repo purpose
+This wordpress plugin demonstrates Gutenberg issue https://github.com/WordPress/gutenberg/issues/50229
+
 # Steps to reproduce:
 1. Add the block to a post or page. Notice that the min height and text color show as expected.
 2. Update the post without pressing the change color button
